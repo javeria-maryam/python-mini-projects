@@ -7,7 +7,7 @@ These are learning projects, not portfolio-level ones — they help strengthen P
 
 📂 Projects Included
 
-Student Grade Calculator – Calculate average, highest, lowest, and assign grades.
+Student Grade Calculator – Calculate students grades based on their marks.
 
 Word Counter – Count frequency of words in a text file.
 
