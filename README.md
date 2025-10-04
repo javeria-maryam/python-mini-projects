@@ -15,6 +15,8 @@ Guessing Game – A simple number guessing game.
 
 Shopping Cart – Add/remove items, calculate totals with error handling.
 
+Student Management System – Add students, view students, view class statistics
+
 (More coming as we progress…)
 
 🚀 How to Run
